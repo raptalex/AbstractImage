@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRkT3Ovx+Z3EaSUZWzhJaHQEh7cSakbHzEExW6O8BRnm++TxznN874YmV1TeCe6zgTxsUmFyOo1H0gG4zzMWpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arapt\\source\\repos\\AbstractImage\\AbstractImage\\AbstractImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

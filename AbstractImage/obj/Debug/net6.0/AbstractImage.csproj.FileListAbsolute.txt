@@ -1,0 +1,15 @@
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\bin\Debug\net6.0\AbstractImage.exe
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\bin\Debug\net6.0\AbstractImage.deps.json
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\bin\Debug\net6.0\AbstractImage.runtimeconfig.json
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\bin\Debug\net6.0\AbstractImage.dll
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\bin\Debug\net6.0\AbstractImage.pdb
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.csproj.AssemblyReference.cache
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.AssemblyInfoInputs.cache
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.AssemblyInfo.cs
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.csproj.CoreCompileInputs.cache
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.dll
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\refint\AbstractImage.dll
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.pdb
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\AbstractImage.genruntimeconfig.cache
+C:\Users\arapt\source\repos\AbstractImage\AbstractImage\obj\Debug\net6.0\ref\AbstractImage.dll
